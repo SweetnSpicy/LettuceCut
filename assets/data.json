@@ -1,0 +1,72 @@
+[
+	{
+		"id":			0,
+		"name":			"Speckled Radicchio",
+		"dressing":		"Any light dressings",
+		"pic":			"0",
+		"description":	"This lettuce is a beaut. Yessuh indeed. She is gorgeous. She isn't bitter like other lettuces, but is very simple, plain, light, and elegant. Also that name. Wowzers!"
+	},
+	{
+		"id":			1,
+		"name":			"Arugula",
+		"dressing":		"Lemon Garlic Vinaigrette",
+		"pic":			"1",
+		"description":	"Also known as rocket, arugula has a peppery flavor and dark green leaves. They can be tall and spiky, or short and rounded, but the longer leaved lettuce tends to have a bolder taste. Wild-harvested is the most pungent and can be found in most farmers markets."
+	},
+	{
+		"id":			2,
+		"name":			"Batavia",
+		"dressing":		"Olive oil",
+		"pic":			"2",
+		"description":	"Batavia is a variety of lettuce that stays crisp and doesn't turn bitter easily. This makes it a favorite with summer gardeners who wish to produce lettuce all season long. Batavia comes with all green or red-tinted leaves, but there's no taste difference so aesthetics is key."
+	},
+	{
+		"id":			3,
+		"name":			"Belgian Endive",
+		"dressing":		"Any mild dressings",
+		"pic":			"3",
+		"description":	"These tight, compact heads are packed with flavor and crunch. They are on the bitter end of lettuce varieties. They are generally grown indoor, so they are great for any season you want to consume them in."	
+	},
+	{
+		"id":			4,
+		"name":			"Butter",
+		"dressing":		"Buttermilk Dill Salad Dressing, or Asparagus Butter",
+		"pic":			"4",
+		"description":	"Very common lettuce type. It is a crisp-head lettuce, very similar to iceberg. Butter lettuce has a tender texture, and large leaves that seem to work best in salads."		
+	},
+	{
+		"id":			5,
+		"name":			"Oak Leaf",
+		"dressing":		"Any salad dressings",
+		"pic":			"5",
+		"description":	"This lettuce comes in many colors- red, green, even bronze. They grow loosely, so they are perfect for salads. The external leaves can be discarded if wilted, but the middle section is what you were truly after anyways."		
+	},
+	{
+		"id":			6,
+		"name":			"Mizuna",
+		"dressing":		"Sesame Seed Dressing",
+		"pic":			"6",
+		"description":	"Mizuna is an Asian variety of mustard greens. Spiky dark green leaves may look harmful, but in your mouth they have a delicate texture with a nice peppery kick."
+	},
+	{
+		"id":			7,
+		"name":			"Mache",
+		"dressing":		"Shallot Vinaigrette",
+		"pic":			"7",
+		"description":	"Also known as Lambs Lettuce, comes in little rosettes of dark green leaves. It has more body than other lettuces, and pairs well with many vegetables. But beware, they require a bit more cleaning based on their shape."		
+	},
+	{
+		"id":			8,
+		"name":			"Frisée",
+		"dressing":		"Any classic French bistro dish dressing",
+		"pic":			"8",
+		"description":	"Also known as Curly Endive, this lettuce has the bright bitterness, and delicious crunch expected of endives. It is best known as the base of a classic French bistro salad that includes bacon and a poached egg on top."		
+	},
+	{
+		"id":			9,
+		"name":			"Chrysanthemums",
+		"dressing":		"Half keg of Yuengling",
+		"pic":			"9",
+		"description":	"Bright and peppery, young and tender mums are a grand edition to any salad spanning the globe. They are the green fronds from which the flower grows, and are best served when young. Once older, they get bitter and need to be cooked for a truly mesmerizing flavor."
+	}
+]
